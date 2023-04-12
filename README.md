@@ -1,2 +1,2 @@
 # KIPRIS_Plus_API_Python
-Korean patents
+Use case example
